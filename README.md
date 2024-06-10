@@ -4,20 +4,27 @@
 
 Assignment: Introduction to Software Engineering Instructions: Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 Questions: 
-1.	Define Software Engineering: 
+1.	Define Software Engineering: is the systematic application of engineering principles and techniques to the design, development, testing, and maintenance of software systems. It differs from traditional programming in that it emphasizes a structured approach to building software, focusing on quality, reliability, and maintainability.
+
+
 •	What is software engineering, and how does it differ from traditional programming? 
  	It is a branch of computer science that deals with the design, development, testing, and maintenance of software applications.
  	It differs from traditional programming as traditional programming is mainly concerned with coding. 
 
 2.	Software Development Life Cycle (SDLC):
 •	Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. 
- 	Project Planning - It explains what is needed for a particular project and also looks at the estimated costs of the projects. This phase also looks at the new software requirements.
- 	Define requirements - This stage is about gathering relevant information from the client regarding the requirements for the product. 
- 	Design – At this stage the developer checks if the requirements will be relevant to the software that needs to be designed. The developer checks whether the prepared software meets all the requirements of the end-user.
- 	Development - This stage is about translating the design to a computer language.
- 	Testing – This stage tests the functionality of the entire system and this is done to ensure that the entire application works according to the customer requirements.
- 	Deployment - This is where the product is released to customers to use, in cases where it is noted that there is need for training then training is provided to avoid any uncertainties about the system.
- 	Maintenance - This is where the developed project is taken care of, in case there are glitches or updates that are needed.
+ =>	Project Planning - It explains what is needed for a particular project and also looks at the estimated costs of the projects. This phase also looks at the new 
+    software requirements.
+ =>	Define requirements - This stage is about gathering relevant information from the client regarding the requirements for the product. 
+ =>	Design – At this stage the developer checks if the requirements will be relevant to the software that needs to be designed. The developer checks whether the 
+   prepared software meets all the requirements of the end-user.
+ => Development - This stage is about translating the design to a computer language.
+ =>	Testing – This stage tests the functionality of the entire system and this is done to ensure that the entire application works according to the customer 
+  requirements.
+ =>	Deployment - This is where the product is released to customers to use, in cases where it is noted that there is need for training then training is provided to 
+   avoid any uncertainties about the system.
+ =>	Maintenance - Maintenance: Updating, fixing, and enhancing the software over time.
+
 
 
 3.	Agile vs. Waterfall Models: 
